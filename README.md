@@ -23,6 +23,15 @@
 
 - Image upload with an external Rails service Cloudinary
 
+## Please initialize these before starting the app:
+
+### Versions
+
+
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) 3.0.3p157 (2021-11-24 revision 3fb7d2cadc) [x86_64-linux]
+
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) 6.1.4.6
+
 ### Tools Used
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -34,6 +43,19 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 
+### Setup
+
+```
+ git clone git@github.com:guavalines/Woof_Pal
+.git
+ cd Woof_Pal
+ rails db:create db:migrate db:seed:replant
+ bundle install
+ yarn install
+ rails server
+```
+
+Open you browser and visit localhost:3000
 
 
 
@@ -49,4 +71,6 @@
 
 
 
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+
+
+
