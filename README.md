@@ -1,7 +1,7 @@
 ![Screen Shot 2022-11-17 at 3 59 37 PM](https://user-images.githubusercontent.com/100665876/204125004-51e31053-eb51-4986-8971-c0dd27d6d1ad.jpeg)
 
 # WOOF PAL
-#### Woof Pal is web app created as a collaboration between me and 2 other developers. Check out the website here: [Woof Pal](http://www.woofpal.xyz/)
+#### Woof Pal is web app created as a collaboration between me and 2 other developers. Check out our website here: [Woof Pal](http://www.woofpal.xyz/)
 
 ##### Description
 
