@@ -1,11 +1,11 @@
 ![Screen Shot 2022-11-17 at 3 59 37 PM](https://user-images.githubusercontent.com/100665876/204125004-51e31053-eb51-4986-8971-c0dd27d6d1ad.jpeg)
 
 # WOOF PAL
-#### Woof Pal is web app created as a collaboration between me and 2 other developers. Check out our website here: [Woof Pal](http://www.woofpal.xyz/)
+# [www.woofpal.xyz](http://www.woofpal.xyz/)
 
-##### Description
+## Description
 
-#### Woof Pal is a web app created to help new dog owners get organized with their schedules. Users can get a schedule of vaccinations, deworming, and grooming date suggestions from a certified veterinarian that syncs to their Google Calendar by simply entering in their dog's age.
+#### Woof Pal is web app created as a collaboration between me and 2 other developers, to help new dog owners get organized with their schedules. Users can get a schedule of vaccinations, deworming, and grooming date suggestions from a certified veterinarian that syncs to their Google Calendar by simply entering in their dog's age.
 
 ## Team members
 
