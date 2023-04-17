@@ -1,6 +1,5 @@
 ![Screen Shot 2022-11-17 at 3 59 37 PM](https://user-images.githubusercontent.com/100665876/204125004-51e31053-eb51-4986-8971-c0dd27d6d1ad.jpeg)
 
-# WOOF PAL
 # [www.woofpal.xyz](http://www.woofpal.xyz/)
 
 ## Description
