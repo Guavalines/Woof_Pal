@@ -8,7 +8,7 @@
 
 ## Features
 
-- Users can get a schedule of vaccinations, deworming, and grooming date suggestions from a certified veterinarian that syncs to their Google Calendar by simply entering in their dog's age.
+- Users can get a schedule of vaccinations, deworming, and grooming date suggestions from a certified veterinarian that syncs to their Google Calendar by simply entering  their dog's age.
 - User-friendly interface
 
 ## Team members
