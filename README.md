@@ -4,7 +4,12 @@
 
 ## Description
 
-#### Woof Pal is web app created as a collaboration between me and 2 other developers, to help new dog owners get organized with their schedules. Users can get a schedule of vaccinations, deworming, and grooming date suggestions from a certified veterinarian that syncs to their Google Calendar by simply entering in their dog's age.
+#### Woof Pal is web app created as a collaboration between me and 2 other developers, to potentially help to improve the overall health and well-being of dogs and reduce the risk of serious health problems developing later on, by generating a customized schedule of health appointments for each individual animal based on the dog's age and unique needs to help pet owners and veterinarians to stay on top of important health maintenance tasks. 
+
+## Features
+
+- Users can get a schedule of vaccinations, deworming, and grooming date suggestions from a certified veterinarian that syncs to their Google Calendar by simply entering in their dog's age.
+- User-friendly interface
 
 ## Team members
 
